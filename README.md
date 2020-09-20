@@ -2,7 +2,6 @@
 
 - leave memory operation to user
 - no template<>
-- 
 
 ### Build
 
